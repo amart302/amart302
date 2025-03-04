@@ -68,8 +68,8 @@
 Here are some of the projects I've worked on: -->
 
 <h3>📫 How to reach me</h3><br/>
-Email: <a href="mailto:amartazanov892@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a><br/>
-Telegram: <a href="https://t.me/amarthh" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+Links: <br/> <a href="mailto:amartazanov892@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/amarthh" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 
 Portfolio: In the process of development
 
