@@ -3,7 +3,7 @@
   I'm a Fullstack Developer with a passion for building modern, scalable, and user-friendly applications. I love working with both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+<img src="./GIF/github-user-contribution.svg" />
 
 <h3>🛠️ Technologies & Tools</h3>
 <table>
