@@ -76,8 +76,7 @@
   <section>
     <h2>💼 Projects</h2>
     <p>Here are some of the projects I've worked on:</p>
-
-    <div class="project">
+    <div>
       <h3>🍕 Pizza Delivery App</h3>
       <p>
         A full-stack pizza delivery application built with <strong>React</strong> for the frontend. 
