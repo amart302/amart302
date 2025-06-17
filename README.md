@@ -13,11 +13,10 @@
       <tr>
         <td><strong>Frontend:</strong></td>
         <td>
-          <img class="badge" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img class="badge" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
           <img class="badge" alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
           <img class="badge" alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
           <img class="badge" alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+          <img class="badge" alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
           <img class="badge" alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
           <img class="badge" alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
           <img class="badge" alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -73,7 +72,7 @@
     </p>
   </section>
 
-  <section>
+  <!-- <section>
     <h2>💼 Projects</h2>
     <p>Here are some of the projects I've worked on:</p>
     <div>
@@ -92,7 +91,7 @@
         </li>
       </ul>
     </div>
-  </section>
+  </section> -->
 
   <section>
     <h3>📫 How to Reach Me</h3>
