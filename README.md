@@ -29,6 +29,7 @@
         <td>
           <img class="badge" alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
           <img class="badge" alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+          <img class="barge" alt="NestJS" src="https://img.shields.io/badge/-NestJS-E02343?style=flat-square&logo=nestjs&logoColor=white">
         </td>
       </tr>
       <tr>
